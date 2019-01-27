@@ -9,8 +9,8 @@ public static void main(String[] args) {
 		
 	
     
-   pattern3 p1= new pattern3();
-    p1.Moore(50, v1);
+   pattern2 p1= new pattern2();
+    p1.Moore(10, v1);
  
   v1.setVisible(true);
 		
